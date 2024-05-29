@@ -11,7 +11,7 @@ Made this AutoHotkey script a while back to save Win + Shift + S screenshots to 
 1. Make sure you have [AutoHotkey](https://www.autohotkey.com/) installed.
 2. Clone or download this repository.
 3. Edit the script to set your desired screenshot save path.
-4. Run the script by double-clicking on the `.ahk` file.
+4. Run the script
 5. It is recommended to change the Image Properties in MS Paint to something small like 10x10 to avoid white borders in your screenshots.
 
 <br>
