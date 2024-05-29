@@ -1,4 +1,4 @@
-Made this a while ago to save Win + Shift + S screenshots to desktop.
+Made this AutoHotkey script a while ago to save Win + Shift + S screenshots to desktop. Used it alot before I found an application called "Paste Into File". Still thought that this might be useful to some.
 
 ## Features
 
@@ -20,7 +20,7 @@ Made this a while ago to save Win + Shift + S screenshots to desktop.
 - Press `Win + Shift + S` to take a screenshot.
 - The screenshot will be saved to the specified directory with an incrementing filename.
 
-Or you can download an application called "Paste Into File". 
-I found out that the images are saved into C:\Users\Your-username\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TempState\ScreenClip 
+
+I also later found out that the images are saved into C:\Users\Your-username\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TempState\ScreenClip 
 
 
