@@ -15,6 +15,7 @@ Made this AutoHotkey script a while ago to save Win + Shift + S screenshots to d
 5. It is recommended to change the Image Properties in MS Paint to something small like 10x10 to avoid white borders in your screenshots.
 
 <br>
+
 ![image](https://github.com/J8rgen/SaveScreenshot/assets/92487999/abe732a1-4f66-4269-8efa-9f7a1109ca35)
 
 ## Usage
