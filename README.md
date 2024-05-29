@@ -1,4 +1,4 @@
-Made this AutoHotkey script a while ago to save Win + Shift + S screenshots to desktop. Used it alot before I found an application called "Paste Into File". Still thought that this might be useful to some.
+Made this AutoHotkey script a while back to save Win + Shift + S screenshots to desktop. Used it alot before I found an application called "Paste Into File". Still thought that this might be useful to some.
 
 ## Features
 
