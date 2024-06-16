@@ -1,4 +1,3 @@
-Autohotkey scripts
 Collection of my autohotkey scripts.
 
 
