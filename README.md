@@ -3,8 +3,8 @@ Collection of my autohotkey scripts.
 
 ## SaveScreenshots.ahk
 
-Save Win + Shift + S screenshots to desktop. Used it alot before I found an application called "Paste Into File". Still thought that this might be useful to some.
-I also later found out that the images are saved into C:\Users\Your-username\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TempState\ScreenClip 
+Save Win + Shift + S screenshots to desktop. Used it alot before I found an application called "Paste Into File".
+Found out later that the images are saved into C:\Users\Your-username\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TempState\ScreenClip 
 
 - Uses the Snipping Tool to take a screenshot.
 - Pastes the screenshot into Microsoft Paint.
